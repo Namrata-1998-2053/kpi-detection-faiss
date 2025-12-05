@@ -51,9 +51,3 @@ This system replaces brute-force similarity and enables **real-time inference at
 
 This system automates KPI detection for chat analytics teams and significantly reduces manual review workload, while improving classification consistency and accuracy across domains.
 
-## 📂 Next Steps
-
-- Add evaluation metrics  
-- Add runnable example scripts  
-- Add sample datasets (synthetic)  
-- Improve threshold tuning and error analysis  
